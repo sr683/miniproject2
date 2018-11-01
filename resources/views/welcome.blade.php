@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="{{route('contact')}}">Contact</a>
-
+                    <a href="{{route('about')}}">about</a>
 
                 </div>
             </div>
